@@ -22,5 +22,5 @@ Users can:
  4. Conditional statements: if and else
  5. Try and except blocks for error handling
  6. Dictionaries {} to store categories and expenses
- 7. Lists and tuples [] () to manage expense entries
+ 7. Lists and tuples [ ] ( ) to manage expense entries
  8. String formatting to format money. Ex: ${amount.2f}
