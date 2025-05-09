@@ -7,14 +7,14 @@ Users can:
 - View all expenses grouped by category
 - See a summary of total spending per category
 
-  ## How to Run the Program
+## How to Run the Program
 
   1. Have Python installed (Python 3.8 or later)
   2. Open a terminal (Command prompt etc.)
   3. Go to where the project foler (finance_tracker.py) is saved. Ex: cd path/to/Python-Capstone-Finance-Tracker
   4. Run the program using: python finance_tracker.py
 
- ## Python Concepts Used
+## Python Concepts Used
  
  1. print() and input() for user interaction
  2. Functions (def) to organize the code
